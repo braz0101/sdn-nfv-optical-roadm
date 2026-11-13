@@ -11,3 +11,8 @@ TP4 SDN & NFV, Master 2 SRT (ESP/UCAD). Encadrant : Mr Sadio.
 
 ## Licence
 MIT (code) — voir `LICENSE`.
+
+## Captures
+Voir le dossier `captures/`.
+
+![capture](captures/12.png)
